@@ -1,0 +1,57 @@
+# Laravel specific files and directories
+/vendor/
+/node_modules/
+/public/storage/
+/public/hot/
+/storage/*.key
+/storage/logs/
+/storage/framework/
+/storage/temp/
+/bootstrap/cache/
+
+# Homestead/Vagrant
+/.vagrant/
+Homestead.json
+Homestead.yaml
+
+# Environment specific files
+.env
+.env.*
+.env.development
+.env.development
+.env.testing
+.env.staging
+.env.production
+.env.dusk.local
+
+# Application specific files
+composer.lock
+mix-manifest.json
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Testing and development files
+#/phpunit.xml
+#/phpunit.xml.*
+#/tests/
+#/tests/**
+#/tests/**/*
+
+# Miscellaneous
+/.env.example
+/.env.local.example
+/.env.development.example
+/.env.testing.example
+/.env.staging.example
+/.env.production.example
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+
+# Forge Deploy Script
+/forge-deploy.sh
