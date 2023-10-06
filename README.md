@@ -14,8 +14,7 @@
 
 ## Introduction
 
-This is a web application built with Laravel and Vue that allows registered users to trigger GSM calls from a web browser. The admin panel provides functionality to manage registered users, view call logs, and generate reports.
-
+This is a web application built with Laravel and Vue that allows registered users to trigger GSM calls from a web browser. The admin panel provides functionality to manage registered usersand view call logs.
 
 ## Features
 
